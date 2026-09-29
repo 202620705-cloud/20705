@@ -1,0 +1,13 @@
+{
+  "name": "bugigong-matzip",
+  "version": "1.0.0",
+  "description": "부산기계공업고등학교 전용 맛집 공유 앱",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
